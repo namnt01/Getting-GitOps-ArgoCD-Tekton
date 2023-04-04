@@ -1,3 +1,6 @@
 [submodule "source-code"]
 	path = source-code
 	url = https://github.com/wpernath/book-example.git
+[submodule "book-dev"]
+	path = book-dev
+	url = https://github.com/namnt01/book-example-Getting-GitOps.git
